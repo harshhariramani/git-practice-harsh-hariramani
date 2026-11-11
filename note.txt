@@ -1,4 +1,4 @@
-I am learning Git and GitHub.
+ Git helps track project history.
 Auther - Harsh Hariramani
 Git tracks changes in my fies.
 Each commit saves a checkpoint.
